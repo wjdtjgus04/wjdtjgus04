@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm seohyun Jung</h1>
-<h3 align="center">learning coding in Korea(freshmen in university)</h3>
+<h1 align="left">Hello, I'm Jungseohyun.</h1>
+<h3 align="left">I'm learning coding in Korea.(freshmen in university,a novice developer)</h3>
 
-- 🌱 I’m currently learning **analyzing data with python, java, Database, Jsp, Html+css**
+- 🌱 I’m currently learning **analyzing data with python, java, Database, Jsp, Html+css** in my university.
 
-- ⚡ Fun fact **I think js and Html is fun**
+- ⚡ Fun fact **I think js and Html is fun**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
