@@ -16,6 +16,9 @@
 <h3 align="left">Goal:</h3>
 <p align = "left"></p>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjdtjgus04&show_icons=true&theme=github_dark)
+
+<h3 align="left">Learning</h3>
+<h3 align="left">표 제작 후 만들기!</h3>
 <!---
 wjdtjgus04/wjdtjgus04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
