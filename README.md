@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **I think js and Html is fun**.
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -19,6 +18,18 @@
 
 <h3 align="left">Learning</h3>
 <h3 align="left">표 제작 후 만들기!</h3>
+
+| 배운언어 | 현재 수업에서 배우고 있는 내용 | 코딩능력(학생수준) | 주력으로 삼을언어 |
+| -------- | ------------------------------ | ------------------ | ----------------- |
+| java     | O                              | 중                 | O                 |
+| c        | X                              | 중하               |                   |
+| Python   | O(dataAnalysis)                | 중                 | O                 |
+| HTML     | X                              | 중                 |                   |
+| JS       | X                              | 중하               | O                 |
+| JSP      | O                              | 중                 |                   |
+| CSS      | X                              | 중하               |                   |
+| mysql    | X                              | 하                 |                   |
+
 <!---
 wjdtjgus04/wjdtjgus04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
