@@ -18,16 +18,16 @@
 
 <h3 align="left">Learning</h3>
 
-| 배운언어 | 현재 수업에서 배우고 있는 내용 | 코딩능력(학생수준) | 주력으로 삼을언어 |
+| language | learning in class  | skill level | main language |
 | -------- | ------------------------------ | ------------------ | ----------------- |
-| java     | O                              | 중                 | O                 |
-| c        | X                              | 중하               |                   |
-| Python   | O(dataAnalysis)                | 중                 | O                 |
-| HTML     | X                              | 중                 |                   |
-| JS       | X                              | 중하               | O                 |
-| JSP      | O                              | 중                 |                   |
-| CSS      | X                              | 중하               |                   |
-| mysql    | X                              | 하                 |                   |
+| java     | O                              | middle                 | O                 |
+| c        | X                              | lower middle              |                   |
+| Python   | O(dataAnalysis)                | middle                 | O                 |
+| HTML     | X                              | middle                 |                   |
+| JS       | X                              | lower middle               | O                 |
+| JSP      | O                              | middle               |                   |
+| CSS      | X                              | lower middle               |                   |
+| mysql    | X                              | lower                 |                   |
 
 <!---
 wjdtjgus04/wjdtjgus04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
