@@ -17,8 +17,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjdtjgus04&show_icons=true&theme=github_dark)
 
 <h3 align="left">Learning</h3>
-<h3 align="left">표 제작 후 만들기!</h3>
-
 | 배운언어 | 현재 수업에서 배우고 있는 내용 | 코딩능력(학생수준) | 주력으로 삼을언어 |
 | -------- | ------------------------------ | ------------------ | ----------------- |
 | java     | O                              | 중                 | O                 |
